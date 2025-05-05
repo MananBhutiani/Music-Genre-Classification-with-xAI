@@ -4,8 +4,8 @@ This project focuses on classifying music genres using spectrogram images and CN
 
 ## Files
 
-* `genre_classifier_resnet18.pth`: Trained ResNet18 model
-* `VGGNET.pth`: Trained VGGNet model
+* `genre_classifier_resnet18.pth`: Trained ResNet18 model (https://www.kaggle.com/models/mananbhutiani/resnet18-for-music-genre-classification)
+* `VGGNET.pth`: Trained VGGNet model (https://www.kaggle.com/models/mananbhutiani/vggnet-for-music-genre-classification)
 * `customcnn+gradcam.ipynb`: Jupyter Notebook for custom CNN, training, evaluation, and Grad-CAM visualization
 
 ## Features
